@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasMakesGames
+- 👋 Hi, I’m @Lucas
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning maya and unreal engine 5
 - 💞️ I’m looking to collaborate on unreal egnine 5
