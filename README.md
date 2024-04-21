@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lucas
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning C++ and unreal engine 5
-- 💞️ I’m looking to collaborate on unreal egnine 5
+- 👀 I’m interested in vfx/games
+- 🌱 I’m currently nuke and unreal engine 5
 - 📫 How to reach me Lucasbro0511@gmail.com
 
 <!---
